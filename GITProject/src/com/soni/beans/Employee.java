@@ -8,4 +8,9 @@ public class Employee {
 		return new Date();
 	}
 
+	public void m1() {
+		System.out.println("From utility M1() method");
+
+	}
+
 }
