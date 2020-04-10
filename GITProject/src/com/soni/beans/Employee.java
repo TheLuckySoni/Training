@@ -18,4 +18,8 @@ public class Employee {
 
 	}
 
+	public void m5() {
+		System.out.println("Employee.m5()");
+	}
+
 }
