@@ -22,4 +22,9 @@ public class Employee {
 		System.out.println("Employee.m5()");
 	}
 
+	public void m3() {
+		System.out.println("My m3() method of Employee Classs");
+
+	}
+
 }
