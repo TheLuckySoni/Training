@@ -9,8 +9,7 @@ public class Employee {
 	}
 
 	public void m1() {
-		System.out.println("From utility M1() method.....abcdefgh");
-
+		System.out.println("From utility M1() method 12345......");
 	}
 
 }
