@@ -13,4 +13,9 @@ public class Employee {
 		System.out.println("My new update in m1() method");
 	}
 
+	public void x() {
+		System.out.println("Employee.x()");
+
+	}
+
 }
