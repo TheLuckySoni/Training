@@ -1,0 +1,2 @@
+INSERT INTO patient (PATIENT_ID, PATIENT_FIRST_NAME,PATIENT_LAST_NAME,GENDER, PHONE_NUMBER, ADDRESS, CITY, STATE)
+values(104, 'Sumit','Yadav', 'Male',7842719861L,'Ameerpet', 'Hyderabad', 'Telagana');

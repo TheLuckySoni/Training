@@ -1,0 +1,5 @@
+com\nexogic\controller\PatientController.class
+com\nexogic\dao\PatientRepo.class
+com\nexogic\model\Patient.class
+com\nexogic\PatientManagementSystemApplication.class
+com\nexogic\service\PatientService.class
